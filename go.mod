@@ -2,6 +2,7 @@ module github.com/gohugoio/hugo
 
 require (
 	github.com/BurntSushi/locker v0.0.0-20171006230638-a6e239ea1c69
+	github.com/OhYee/goldmark-plantuml v1.0.3
 	github.com/alecthomas/chroma/v2 v2.14.0
 	github.com/armon/go-radix v1.0.1-0.20221118154546-54df44f2176c
 	github.com/aws/aws-sdk-go-v2 v1.30.3
@@ -99,6 +100,9 @@ require (
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
 	github.com/Azure/go-autorest/autorest/to v0.4.0 // indirect
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.2.2 // indirect
+	github.com/OhYee/go-plantuml v1.0.0 // indirect
+	github.com/OhYee/goldmark-fenced_codeblock_extension v1.0.0 // indirect
+	github.com/OhYee/goutils v1.1.0 // indirect
 	github.com/aws/aws-sdk-go v1.55.5 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.3 // indirect
 	github.com/aws/aws-sdk-go-v2/config v1.27.27 // indirect

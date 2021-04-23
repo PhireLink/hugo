@@ -37,6 +37,7 @@ import (
 	"github.com/yuin/goldmark/renderer"
 	"github.com/yuin/goldmark/renderer/html"
 	"github.com/yuin/goldmark/text"
+	uml "github.com/OhYee/goldmark-plantuml"
 
 	"github.com/gohugoio/hugo/markup/converter"
 	"github.com/gohugoio/hugo/markup/tableofcontents"
@@ -181,6 +182,11 @@ func newMarkdown(pcfg converter.ProviderConfig) goldmark.Markdown {
 
 	if cfg.Extensions.Passthrough.Enable {
 		extensions = append(extensions, passthrough.New(cfg.Extensions.Passthrough))
+	}
+
+	if cfg.Extensions.Plantuml {
+		extensions = append(extensions, extension.GFM)
+		extensions = append(extensions, uml.Default)
 	}
 
 	if pcfg.Conf.EnableEmoji() {

@@ -72,6 +72,7 @@ strikethrough|[GitHub Flavored Markdown: Strikethrough]|:heavy_check_mark:
 table|[GitHub Flavored Markdown: Tables]|:heavy_check_mark:
 taskList|[GitHub Flavored Markdown: Task list items]|:heavy_check_mark:
 typographer|[Goldmark Extensions: Typographer]|:heavy_check_mark:
+plantuml|[Goldmark Extensions: PlantUML]|:heavy_check_mark:
 
 [GitHub Flavored Markdown: Autolinks]: https://github.github.com/gfm/#autolinks-extension-
 [GitHub Flavored Markdown: Strikethrough]: https://github.github.com/gfm/#strikethrough-extension-
@@ -79,6 +80,7 @@ typographer|[Goldmark Extensions: Typographer]|:heavy_check_mark:
 [GitHub Flavored Markdown: Task list items]: https://github.github.com/gfm/#task-list-items-extension-
 [Goldmark Extensions: CJK]: https://github.com/yuin/goldmark?tab=readme-ov-file#cjk-extension
 [Goldmark Extensions: Typographer]: https://github.com/yuin/goldmark?tab=readme-ov-file#typographer-extension
+[Goldmark Extensions: PlantUML]: https://github.com/OhYee/goldmark-plantuml
 [Hugo Goldmark Extensions: Extras]: https://github.com/gohugoio/hugo-goldmark-extensions?tab=readme-ov-file#extras-extension
 [Hugo Goldmark Extensions: Passthrough]: https://github.com/gohugoio/hugo-goldmark-extensions?tab=readme-ov-file#passthrough-extension
 [PHP Markdown Extra: Definition lists]: https://michelf.ca/projects/php-markdown/extra/#def-list
