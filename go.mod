@@ -1,5 +1,7 @@
 module github.com/gohugoio/hugo
 
+replace github.com/OhYee/goldmark-plantuml v1.0.3 => github.com/PhireLink/goldmark-plantuml v0.0.0-20241022014434-1a0ec55d95cd
+
 require (
 	github.com/BurntSushi/locker v0.0.0-20171006230638-a6e239ea1c69
 	github.com/OhYee/goldmark-plantuml v1.0.3

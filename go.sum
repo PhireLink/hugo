@@ -77,10 +77,10 @@ github.com/OhYee/go-plantuml v1.0.0 h1:tUuEzthNj2Yowj8pTkj9OHTV5S67ldKev4GMLFt/S
 github.com/OhYee/go-plantuml v1.0.0/go.mod h1:ZniuWd2h+zF98XfuaOH5HQGFcQCshIFeLIpy8xDSQYk=
 github.com/OhYee/goldmark-fenced_codeblock_extension v1.0.0 h1:dtGLlVJME9HR3Wid4aTGOrjkAEhIDtfVd5SIiimHMR4=
 github.com/OhYee/goldmark-fenced_codeblock_extension v1.0.0/go.mod h1:TgT24ZLKYmY/piPvGTYzERDUDE3EnwIPc4k606lAlkw=
-github.com/OhYee/goldmark-plantuml v1.0.3 h1:389cHtH62y5dkR6koDIwHGVjumEDRoqZHDeGDKII50s=
-github.com/OhYee/goldmark-plantuml v1.0.3/go.mod h1:zE5P5zsEryMcwTTM5UP+tqB0fSxlb9f2shF7tyOeRB4=
 github.com/OhYee/goutils v1.1.0 h1:E9BMk4oowjbgrYq+30Xq0MwzT2bJ8WC11NVEUom+YFc=
 github.com/OhYee/goutils v1.1.0/go.mod h1:RqaQ1bD+sQAq7zQ/1vAtaojWoFznhAFdWDsMZr7SgkA=
+github.com/PhireLink/goldmark-plantuml v0.0.0-20241022014434-1a0ec55d95cd h1:BJok6JX6mwYHiP+UHeX5fZ9ozJzMYvrVZ3kDoB8yNvM=
+github.com/PhireLink/goldmark-plantuml v0.0.0-20241022014434-1a0ec55d95cd/go.mod h1:zE5P5zsEryMcwTTM5UP+tqB0fSxlb9f2shF7tyOeRB4=
 github.com/akavel/rsrc v0.8.0/go.mod h1:uLoCtb9J+EyAqh+26kdrTgmzRBFPGOolLWKpdxkKq+c=
 github.com/alecthomas/assert v0.0.0-20170929043011-405dbfeb8e38 h1:smF2tmSOzy2Mm+0dGI2AIUHY+w0BUc+4tn40djz7+6U=
 github.com/alecthomas/assert v0.0.0-20170929043011-405dbfeb8e38/go.mod h1:r7bzyVFMNntcxPZXK3/+KdruV1H5KSlyVY0gc+NgInI=
